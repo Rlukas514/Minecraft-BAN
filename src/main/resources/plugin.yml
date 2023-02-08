@@ -1,0 +1,11 @@
+name: Bansystem
+version: 1.1
+main: tech.itexpress.Bansystem
+api-version: 1.19
+authors: [LukasRichter]
+description: Bansystem build with Love by IT-Express
+website: https://www.it-express.tech
+commands:
+  adminban:
+    usage: /adminban <player> [reason]
+    aliases: [ab]
